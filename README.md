@@ -17,6 +17,7 @@ The analysis utilizes data from reputable sources including:\
 **Power BI** for data visualization and dashboard creation\
 **Excel** for preliminary data cleaning and preparation
 
+## Dashboard
 ![image](https://github.com/DivyaMunot/AppliedMaterials-Analysis/blob/23055cb4abe05b0b25f9d27674769ffed4e5b5c5/Dashboard%201.png)
 
 ![image](https://github.com/DivyaMunot/AppliedMaterials-Analysis/blob/8a8890ccdaefea2eb44f86decb060d8037890c15/Dashboard%202.png)
